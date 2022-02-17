@@ -1,0 +1,40 @@
+.password-data {
+  display: flex;
+  align-items: center;
+  border: solid 1px #f8fafc;
+  padding: 15px;
+  border-radius: 8px;
+  margin: 10px;
+}
+
+.para-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: #f59e0b;
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.list-text-container {
+  margin-right: 15px;
+  width: 80px;
+}
+
+.para2 {
+  color: #ffffff;
+  margin: 2px;
+}
+
+.image4 {
+  height: 10px;
+}
+
+.button1 {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
